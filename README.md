@@ -1,6 +1,6 @@
 # Sample-Android-UnbufferedIoViolation
 
-Sample application which demonstrates StrictMode warning UnbufferedIoViolation during flushing BufferedOutputStream. This is from my point of view wrong.
+Sample application which demonstrates StrictMode warning UnbufferedIoViolation during flushing BufferedOutputStream.
 
 Code:
 
