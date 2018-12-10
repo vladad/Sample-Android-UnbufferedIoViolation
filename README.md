@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/vladad/Sample-Android-UnbufferedIoViolation.svg?branch=master)](https://travis-ci.org/vladad/Sample-Android-UnbufferedIoViolation)
+
 # Sample-Android-UnbufferedIoViolation
 
 Sample application which demonstrates StrictMode warning UnbufferedIoViolation during flushing BufferedOutputStream.
